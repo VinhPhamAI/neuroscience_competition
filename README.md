@@ -27,3 +27,9 @@ Ensure the kernel named "bci-competition" is selected in your Jupyter Notebook o
 
 ### 3. Run the notebook
 Click "Run All" to execute the notebook.
+
+## Results stored on Kaggle
+The working results are saved on Kaggle.  
+Due to an error during the saving process, the results shown later are not identical to those presented in the report.
+
+Link: \href{https://www.kaggle.com/code/phamchienunc/notebookbbce6e2d3c}{Kaggle Notebook}
