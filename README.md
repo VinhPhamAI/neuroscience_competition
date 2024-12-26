@@ -32,4 +32,4 @@ Click "Run All" to execute the notebook.
 The working results are saved on Kaggle.  
 Due to an error during the saving process, the results shown later are not identical to those presented in the report.
 
-Link: \href{https://www.kaggle.com/code/phamchienunc/notebookbbce6e2d3c}{Kaggle Notebook}
+[Kaggle Notebook](https://www.kaggle.com/code/phamchienunc/notebookbbce6e2d3c)
